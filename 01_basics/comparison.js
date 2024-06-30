@@ -16,5 +16,5 @@ console.log(null >= 0);
 
 // that's why  null >= 0 true and null > 0 false .
 
-// Note (===) check data type 
+// Note (=== check data type )
 
