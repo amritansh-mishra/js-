@@ -35,3 +35,9 @@ const userOne = new User("hitesh", 12, true)
 const userTwo = new User("ChaiAurCode", 11, false)
 console.log(userOne.constructor);
 //console.log(userTwo); 
+
+
+// Note - When we use 'new' keyword, first of all an empty object is created, which is called instance.
+
+// constructor function is called due to new keyword, it packs your arguments and inject it to 'this'
+
